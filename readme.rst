@@ -12,7 +12,7 @@ Unfortunately, the code was written during my PhD, when I was:
 1. still learning Python, and 
 2. in a hurry. 
 
-As a result the code is almost certainly poorly structured, minimally commented, and possibly flawed. Still, if you're a fresh-faced grad student interested in reducing data with HSTphot, it might come in useful. In fact, if you think this could be of serious use to you, and you'd like a hand rewriting it as a proper tool, please get in touch.
+As a result the code is almost certainly poorly structured, minimally commented, and possibly buggy. Good luck!
 
 
 .. _HSTphot: http://purcell.as.arizona.edu/hstphot/
